@@ -1,4 +1,4 @@
-
+Mullvad custom Extension: simultaneous-connections & PPTP-support is the best Mullvad extension, featuring simultaneous-connections and PPTP-support. Secure, fast, and optimized
 
 
 
